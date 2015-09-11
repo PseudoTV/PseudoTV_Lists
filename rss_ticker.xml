@@ -1,0 +1,20 @@
+Genre|Feed.xml|Name - Short Description
+
+News|http://feeds.bbci.co.uk/news/rss.xml|BBC - Top Stories
+News|http://feeds.feedburner.com/DiscoveryNews-Top-Stories?format=xml|DiscoveryNews - Top Stories
+News|http://www.history.com/this-day-in-history/rss|History - This Day in History
+News|http://feeds.feedburner.com/foxnews/latest|FOX News - Latest News
+News|http://www.npr.org/rss/rss.php?id=1001|NPR - Top Stories
+News|http://www.esa.int/rssfeed/Our_Activities/Space_News|ESA - Space News
+News|http://www.nasa.gov/rss/dyn/breaking_news.rss|NASA - Breaking News
+
+Entertainment|http://feeds.people.com/people/headlines|People.com - Entertainment News from People
+Entertainment|http://www.usmagazine.com/celebrity_news/rss|US Magazine - Celebrity News
+Entertainment|http://feeds.abcnews.com/abcnews/entertainmentheadlines|ABC - Entertainment News from ABC
+
+Sports|http://www.cbssports.com/partners/feeds/rss/home_news|CBS Sports - The latest sports news from CBSSports.com
+Sports|http://feeds.bbci.co.uk/sport/0/football/rss.xml|BBC Football - British Football News
+Sports|http://feeds.bbci.co.uk/sport/0/rss.xml|BBC Sports - Latest Sports News
+Sports|http://sports-ak.espn.go.com/espn/rss/rpm/news|ESPN Racing - Racing News
+
+Tech|http://feeds.feedburner.com/ziffdavis/pcmag/breakingnews|PCMag - PC Mag News
