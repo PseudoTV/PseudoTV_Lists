@@ -1,30 +1,40 @@
-{"chname":"A&E","channel":["AENetwork"],"playlist":[]}
-Network|abcfamily|ABC Family
-Network|adultswim,UCa6X8qykISUTavVLryb_IoQ|Adult Swim
-Network|amc|AMC
-Network|MilitaryChannel|Military Channel
-Network|AnimalPlanetNetwork|Animal Planet
-Network|animenetwork|Anime Network
-Network|tvASPiRE|Aspire
-Network|AudienceDIRECNetwork|Audience
-Network|AweMeChannel|AWE me
-Network|HDNetLLC|AXS TV
-Network|BBCAmericaNetwork|BBC America
-Network|BETNetworks|BET
-Network|BravoShows|Bravo
-Network|chiller|Chiller
-Network|ClooNetwork|Cloo TV
-Network|cmtvideo|CMT
-Network|comedycentral|Comedy Central
-Network|TheCOMEDYTVchannel|COMEDY Channel
-Network|CookingChannel|Cooking Channel
-Network|CreateTVChannel|Create TV
-Network|CrimeandInvestigat|Crime & Investigation
-Network|DestinationAmerica|Destination America
-Network|DiscoveryNetworks,DNews,DiscoverManKind,Discovery,UCmBobPZzLEOQ71AtLwnuntw|Discovery
-Network|DiscoveryHealth|Discovery Life
-Network|DIYNetwork|DIY Network 
-Network|EEntertainment|E! Entertainment
+{"chname":"A&E","genre":["Network"],"channel":["AENetwork"],"playlist":[]}
+{"chname":"ABC Family","genre":["Network"],"channel":["abcfamily"],"playlist":[]}
+{"chname":"Adult Swim","genre":["Network"],"channel":["adultswim","adultswimau","UCa6X8qykISUTavVLryb_IoQ"],"playlist":[]}
+{"chname":"AMC","genre":["Network"],"channel":["amc"],"playlist":[]}
+{"chname":"Military Channel","genre":["Network"],"channel":["MilitaryChannel"],"playlist":[]}
+{"chname":"Animal Planet","genre":["Network"],"channel":["AnimalPlanetNetwork"],"playlist":[]}
+{"chname":"Anime Network","genre":["Network"],"channel":["animenetwork"],"playlist":[]}
+{"chname":"Aspire","genre":["Network"],"channel":["tvASPiRE"],"playlist":[]}
+{"chname":"Audience","genre":["Network"],"channel":["AudienceDIRECNetwork"],"playlist":[]}
+{"chname":"AWE me","genre":["Network"],"channel":["AweMeChannel"],"playlist":[]}
+{"chname":"AXS TV","genre":["Network"],"channel":["HDNetLLC"],"playlist":[]}
+{"chname":"BBC America","genre":["Network"],"channel":["BBCAmericaNetwork"],"playlist":[]}
+{"chname":"BET","genre":["Network"],"channel":["BETNetworks"],"playlist":[]}
+{"chname":"Bravo","genre":["Network"],"channel":["BravoShows"],"playlist":[]}
+{"chname":"Chiller","genre":["Network"],"channel":["chiller"],"playlist":[]}
+{"chname":"Cloo TV","genre":["Network"],"channel":["ClooNetwork"],"playlist":[]}
+{"chname":"CMT","genre":["Network"],"channel":["cmtvideo"],"playlist":[]}
+{"chname":"comedycentral","genre":["Network"],"channel":["Comedy Central"],"playlist":[]}
+{"chname":"COMEDY Channel","genre":["Network"],"channel":["TheCOMEDYTVchannel"],"playlist":[]}
+{"chname":"Cooking Channel","genre":["Network"],"channel":["CookingChannel"],"playlist":[]}
+{"chname":"Create TV","genre":["Network"],"channel":["CreateTVChannel"],"playlist":[]}
+{"chname":"Crime & Investigation","genre":["Network"],"channel":["CrimeandInvestigat"],"playlist":[]}
+{"chname":"Destination America","genre":["Network"],"channel":["DestinationAmerica"],"playlist":[]}
+{"chname":"Discovery","genre":["Network"],"channel":["DiscoveryNetworks","DNews","DiscoverManKind","Discovery","UCmBobPZzLEOQ71AtLwnuntw"],"playlist":[]}
+{"chname":"DiscoveryHealth","genre":["Network"],"channel":["Discovery Life"],"playlist":[]}
+{"chname":"DIY Network ","genre":["Network"],"channel":["DIYNetwork"],"playlist":[]}
+{"chname":"E! Entertainment","genre":["Network"],"channel":["amc"],"playlist":[]}
+{"chname":"AMC","genre":["Network"],"channel":["EEntertainment"],"playlist":[]}
+{"chname":"AMC","genre":["Network"],"channel":["amc"],"playlist":[]}
+{"chname":"AMC","genre":["Network"],"channel":["amc"],"playlist":[]}
+{"chname":"AMC","genre":["Network"],"channel":["amc"],"playlist":[]}
+{"chname":"AMC","genre":["Network"],"channel":["amc"],"playlist":[]}
+{"chname":"AMC","genre":["Network"],"channel":["amc"],"playlist":[]}
+{"chname":"AMC","genre":["Network"],"channel":["amc"],"playlist":[]}
+
+
+
 Network|G4Network|G4TV
 Network|EsquireNetworkShows|Esquire Network
 Network|FoodNetworkNetwork|Food Network
