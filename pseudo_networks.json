@@ -107,15 +107,14 @@
 {"chname":"Nickelodeon","genre":["Kids"],"channel":["Nickelodeon","GoldenNickelodeon"],"playlist":[]}
 {"chname":"TeenNick","genre":["Kids"],"channel":["TeenNickStudios"],"playlist":[]}
 {"chname":"Sprout","genre":["Kids"],"channel":["Sprout"],"playlist":[]}
-{"chname":"Comedy 2","genre":["Other"],"channel":["BadLipReading","ERB","schmoyoho","justforlaughscomedy","overboardhumor","standupoc","break","BreakOriginals"],"playlist":[]}
+{"chname":"Comedy2","genre":["Other"],"channel":["BadLipReading","ERB","schmoyoho","justforlaughscomedy","overboardhumor","standupoc","break","BreakOriginals"],"playlist":[]}
 {"chname":"Video Gaming History","genre":["Other"],"channel":["DYKGaming","mcfrosticles"],"playlist":[]}
 {"chname":"Video Game News and Reviews","genre":["Other"],"channel":["IGNentertainment","gamespot","Rev3Games","pbsgameshow","goodgameabctv","gametrailers","PlayStation","machinima"],"playlist":[]}
 {"chname":"Video Game Guides and Playthroughs","genre":["Other"],"channel":["Node","MinecraftIGN","RHINOCRUNCH","FRANKIEonPCin1080p","jackfrags","illusionsOfgrandeur1","UPlayNetwork"],"playlist":[]}
-
-
-
-Network|The Tonight Show Starring Jimmy Fallon,Jimmy Kimmel Live,LastWeekTonight,Team Coco|8|150|1|Late Night
-Music|Okayplayer,PRO ERA,Stones Throw,Boiler Room,BeastieBoys,thefacultyof,LBTV - Lyrics Born Network|8|200|1|Bakpakr
-Other|omgubuntu,technewstoday,ThisWeekinTech,thebenheckshow,NCIXEsther,tomorrowdaily,diytryin,testedcom,TEKHD,CNETTV,acedtect,TheVerge,geekbeattv,gigafide|8|25|2|Techtv 1
-Other|xdadevelopers,AndroidAuthority,marquesbrownlee,howtomen,jon4lakers,UCtp9s4L-kxIRy221VVtgjXg|8|25|2|Techtv 2
-Other|comedycentral,collegehumor,ImprovEverywhere,FunnyorDie,OfficialComedy|NewsBeFunny,smosh,WorldsFunniestGags|Comedy 1
+{"chname":"90's SatTV","genre":["Other"],"channel":["UCc6ZhFxWQ_UI9LzyhzJ3yDg","UCKQBfz-scctFXCcC5mVD_TA","UCJHJxu14we8K5Wrt3K8dcqQ"],"playlist":[]}
+{"chname":"Discovery Family","genre":["Kids"],"channel":["HasbroStudiosShorts","mlpequestriagirls","UCXftEpbQa9m7IsqYQmdBjlg","UCrsZ-0XVJvz-47exYDZqXGg"],"playlist":[]}
+{"chname":"Nick Jr.","genre":["Kids"],"channel":["nickelodeonjuniorfr","UCcJT_hEkkQ03NAzp_6NEBiw"],"playlist":[]}
+{"chname":"Late Night","genre":["Network"],"channel":["The Tonight Show Starring Jimmy Fallon","Jimmy Kimmel Live","LastWeekTonight","Team Coco"],"playlist":[]}
+{"chname":"TechTV1","genre":["Tech"],"channel":["omgubuntu","technewstoday","ThisWeekinTech","thebenheckshow","NCIXEsther","tomorrowdaily","diytryin","testedcom","TEKHD","CNETTV","acedtect","TheVerge","geekbeattv","gigafide"],"playlist":[]}
+{"chname":"TechTV2","genre":["Tech"],"channel":["xdadevelopers","AndroidAuthority","marquesbrownlee","howtomen","jon4lakers","UCtp9s4L-kxIRy221VVtgjXg"],"playlist":[]}
+{"chname":"Comedy1","genre":["Comedy"],"channel":["comedycentral","collegehumor","ImprovEverywhere","FunnyorDie","OfficialComedy","NewsBeFunny","smosh,WorldsFunniestGags"],"playlist":[]}
