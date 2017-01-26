@@ -1,6 +1,7 @@
-{"chname":"NASA TV","description":"","genre":["Network"],"rss":{"urls": ["http://www.nasa.gov/rss/NASAEdge_vodcast.rss","http://www.nasa.gov/rss/NASAcast_vodcast.rss","http://www.nasa.gov/rss/TWAN_vodcast.rss","http://www.nasa.gov/rss/hubble_vodcast.rss","http://www.nasa.gov/rss/mission_update_vodcast.rss","http://www.nasa.gov/rss/nasa360_vodcast.rss","http://www.nasa.gov/rss/solar_system_vodcast.rss","http://www.nasa.gov/rss/universe_vodcast.rss","http://www.nasa.gov/rss/whatsup_vodcast.rss"]}}
+{"chname":"NASA TV2","description":"","genre":["Network"],"rss":{"urls": ["http://www.nasa.gov/rss/NASAEdge_vodcast.rss","http://www.nasa.gov/rss/NASAcast_vodcast.rss","http://www.nasa.gov/rss/TWAN_vodcast.rss","http://www.nasa.gov/rss/hubble_vodcast.rss","http://www.nasa.gov/rss/mission_update_vodcast.rss","http://www.nasa.gov/rss/nasa360_vodcast.rss","http://www.nasa.gov/rss/solar_system_vodcast.rss","http://www.nasa.gov/rss/universe_vodcast.rss","http://www.nasa.gov/rss/whatsup_vodcast.rss"]}}
+{"chname":"NASA TV1","description":"","genre":["Network"],"youtube":{"channel":["NASAtelevision","TheNASAchannel","ScienceAtNASA"],"playlist":[]}}
 {"chname":"CometTV","description":"","genre":["Network"],"livetv":{"url":"plugin://plugin.video.comettv/?mode=GV&url=http%3A%2F%2Fcontent.uplynk.com%2Fchannel%2F810bf2b47d9f4bd8a0101dd2b21afc91.m3u8%3Ftc%3D1%26exp%3D1614631202%26rn%3D1044192764%26ct%3Dc%26cid%3D810bf2b47d9f4bd8a0101dd2b21afc91%26ad%3Dcomet%26ad.adUnit%3D%252FCOMET%252FLivestream_midroll%26ad._debug%3Dcomet_vmap%26ad.ad_rule%3D1%26ad.pmad%3D10%26ad.output%3Dxml_vmap1%26sig%3D61df4f67b54a8b52d2060b9e30bcf4bbe41fe1a1c86bf468377f869a29569b7c","guidedata":"http://mobilelistings.tvguide.com/Listingsweb/ws/rest/airings/20405/start/1464292664/duration/20170?channelsourceids=74313%7C62.4&formattype=json"}}
-{"chname":"ABC News","description":"24/7 News","genre":["Network"],"internettv":{"url":"https://www.youtube.com/watch?v=rp1FyjB8WXQ","title":"ABC News"}}
+{"chname":"ABC News","description":"24/7 News","genre":["Network"],"internettv":{"url":"plugin://plugin.video.youtube/?action=play_video&videoid=rp1FyjB8WXQ","title":"ABC News"}}
 {"chname":"TWiT Live","description":"TWiT Live","genre":["Technology"],"internettv":{"url":"plugin://plugin.video.twit/?url=twit_live&iconimage=Y%3A%5Cportable_data%5Caddons%5Cplugin.video.twit%5Cresources%5Clive.png&name=TWiT+Live&content_type=video&mode=twit_live","title":"TWiT Live"}}
 {"chname":"TWiT TV","description":"TWiT Live","genre":["Technology"],"rss":{"urls": ["http://feeds.twit.tv/twit_video_large","http://feeds.twit.tv/twig_video_large","http://feeds.twit.tv/tnss_video_hd.xml","http://feeds.twit.tv/podcasts/aaa_video_large","http://feeds.twit.tv/byb_video_hd.xml"]}}
 {"chname":"revision3","description":"revision3","genre":["Technology"],"rss":{"urls": ["http://revision3.com/hak5/feed/mp4-hd30","http://revision3.com/hdnation/feed/mp4-hd30","http://revision3.com/scamschool/feed/mp4-hd30","http://revision3.com/tbhs/feed/mp4-hd30","http://revision3.com/tekzilla/feed/mp4-hd30"]}}
@@ -26,13 +27,14 @@
 {"chname":"Cloo TV","description":"","genre":["Network"],"youtube":{"channel":["ClooNetwork"],"playlist":[]}}
 {"chname":"CMT","description":"","genre":["Network"],"youtube":{"channel":["cmtvideo"],"playlist":[]}}
 {"chname":"Comedy Central","description":"","genre":["Network"],"youtube":{"channel":["Comedy Central"],"playlist":[]}}
-{"chname":"COMEDY Channel","description":"","genre":["Network"],"youtube":{"channel":["TheCOMEDYTVchannel"],"playlist":[]}}
+{"chname":"Comedy Channel","description":"","genre":["Network"],"youtube":{"channel":["TheCOMEDYTVchannel"],"playlist":[]}}
+{"chname":"Comedy TV","description":"","genre":["Comedy"],"youtube":{"channel":["comedycentral","collegehumor","ImprovEverywhere","FunnyorDie","OfficialComedy","NewsBeFunny","smosh,WorldsFunniestGags","BadLipReading","ERB","schmoyoho","justforlaughscomedy","overboardhumor","standupoc","break","BreakOriginals"],"playlist":[]}}
 {"chname":"Cooking Channel","description":"","genre":["Network"],"youtube":{"channel":["CookingChannel"],"playlist":[]}}
 {"chname":"Create TV","description":"","genre":["Network"],"youtube":{"channel":["CreateTVChannel"],"playlist":[]}}
 {"chname":"Crime & Investigation","description":"","genre":["Network"],"youtube":{"channel":["CrimeandInvestigat"],"playlist":[]}}
 {"chname":"Destination America","description":"","genre":["Network"],"youtube":{"channel":["DestinationAmerica"],"playlist":[]}}
 {"chname":"Discovery","description":"","genre":["Network"],"youtube":{"channel":["DiscoveryNetworks","DNews","DiscoverManKind","Discovery","UCmBobPZzLEOQ71AtLwnuntw"],"playlist":[]}}
-{"chname":"DiscoveryHealth","description":"","genre":["Network"],"youtube":{"channel":["Discovery Life"],"playlist":[]}}
+{"chname":"Discovery Health","description":"","genre":["Network"],"youtube":{"channel":["Discovery Life"],"playlist":[]}}
 {"chname":"DIY Network ","description":"","genre":["Network"],"youtube":{"channel":["DIYNetwork"],"playlist":[]}}
 {"chname":"E! Entertainment","description":"","genre":["Network"],"youtube":{"channel":["EEntertainment"],"playlist":[]}}
 {"chname":"G4TV","description":"","genre":["Network"],"youtube":{"channel":["G4Network"],"playlist":[]}}
@@ -51,7 +53,6 @@
 {"chname":"LMN","description":"","genre":["Network"],"youtube":{"channel":["lmn"],"playlist":[]}}
 {"chname":"MavTV","description":"","genre":["Network"],"youtube":{"channel":["MavNetwork"],"playlist":[]}}
 {"chname":"My Destination","description":"","genre":["Network"],"youtube":{"channel":["mydestinationvideo"],"playlist":[]}}
-{"chname":"NASATV","description":"","genre":["Network"],"youtube":{"channel":["NASAtelevision","TheNASAchannel","ScienceAtNASA"],"playlist":[]}}
 {"chname":"National Geographic","description":"","genre":["Network"],"youtube":{"channel":["NationalGeographic","NatGeoWild","NatGeoKids"],"playlist":[]}}
 {"chname":"Oxygen","description":"","genre":["Network"],"youtube":{"channel":["OxygenLiveOutLoud"],"playlist":[]}}
 {"chname":"OWN","description":"","genre":["Network"],"youtube":{"channel":["OWN"],"playlist":[]}}
@@ -63,7 +64,7 @@
 {"chname":"Science Channel","description":"","genre":["Network"],"youtube":{"channel":["ScienceChannel"],"playlist":[]}}
 {"chname":"Smithsonian Channel","description":"","genre":["Network"],"youtube":{"channel":["smithsonianchannel"],"playlist":[]}}
 {"chname":"SpikeTV","description":"","genre":["Network"],"youtube":{"channel":["SpikeNetwork"],"playlist":[]}}
-{"chname":"SYFY","description":"","genre":["Network"],"youtube":{"channel":["syfy"],"playlist":[]}}
+{"chname":"SYFY Channel","description":"","genre":["Network"],"youtube":{"channel":["syfy"],"playlist":[]}}
 {"chname":"TLC","description":"","genre":["Network"],"youtube":{"channel":["TLC"],"playlist":[]}}
 {"chname":"TBS","description":"","genre":["Network"],"youtube":{"channel":["TBS"],"playlist":[]}}
 {"chname":"TNT","description":"","genre":["Network"],"youtube":{"channel":["tntweknowdrama"],"playlist":[]}}
@@ -80,17 +81,15 @@
 {"chname":"Z Living","description":"","genre":["Network"],"youtube":{"channel":["zlivingworldwide"],"playlist":[]}}
 {"chname":"Documentary Channel","description":"","genre":["Network"],"youtube":{"channel":["HDUniverseChannel","UCuOIt1Gj020l6jGyv2Mv96Q","vice","HDdocumentaryChannel","BiographyChannel","CrimeUncovered","ConspiracyMutant","MilitaryEarth"],"playlist":[]}}
 {"chname":"TLC","description":"","genre":["Network"],"youtube":{"channel":["UCE4jqr2sH8dXx8DTIKsFDWg","taiekae","UC3gRHshXCl2OG3XDUVAim4Q","UCfvgMqgVoMoNhAlJ_5VvPqg","UC9oy1AJoRaVyRa-i7J8Eghg","TLC"],"playlist":[]}}
-{"chname":"Japanese Game Show Stream","description":"","genre":["Network"],"youtube":{"channel":["UCRwJISD8-UGDwvtJBaxIEdg"],"playlist":[]}}
+{"chname":"Japanese Game Shows","description":"","genre":["Network"],"youtube":{"channel":["UCRwJISD8-UGDwvtJBaxIEdg"],"playlist":[]}}
 {"chname":"FoodTV","description":"","genre":["Network"],"youtube":{"channel":["UCfDNi1aEljAQ17mUrfUjkvg","Freezerburnsdotcom","foodfarmerearth","TheJapanfoodchannel","BrothersGreenEats","everydaydrinkers","BBCFood","sortedfood","LauraVitalesKitchen","hilahcooking","JamieOliver","whatscookingca","thehungrybachelor","RosannaPansino","americastestkitchen","robjnixon","foodwishes","CBCFood","CottageLifeFood","tastemade","EpicMealTime","FoodNetworkVeg","TheOfficialHungry","FullyRawKristina"],"playlist":[]}}
 {"chname":"Conspiracy Channel","description":"","genre":["Network"],"youtube":{"channel":["UFOTVstudios","UFOFAXcom","ConspiracyStuff","saschamoua","OnlyTheParanormal"],"playlist":[]}}
-{"chname":"Lists TV","description":"","genre":["Network"],"youtube":{"channel":["alltime10s","list25","HybridLibrarian","WatchMojo"],"playlist":[]}}
+{"chname":"TIL TV","description":"","genre":["Network"],"youtube":{"channel":["alltime10s","list25","HybridLibrarian","WatchMojo"],"playlist":[]}}
 {"chname":"Travel Channel","description":"","genre":["Network"],"youtube":{"channel":["aroundtheworldforfree","equator","roadslesstravelledlonelyplanet","nextstop","soniastravels","UC4laAHbk8VSgmvB47tsd2XQ","TravelChannelTV","World1Tube","MrMorganOBrien","TravelGuide2014","TravelAndEscapeNetwork"],"playlist":[]}}
 {"chname":"Home Channel","description":"","genre":["Network"],"youtube":{"channel":["houseandhomevideo","RONAinc","CottageLifeMagazine","thisoldhouse","HouseImprovements","UCc8ACUpd_ZutCunMqQmi95Q","hgtvhandmade","gardenanswer","ehowhome","knockoffwood"],"playlist":[]}}
-{"chname":"KnowledgeChannel","description":"","genre":["Network"],"youtube":{"channel":["joshandchuck","TestTubeNetwork","scishow","scishowspace","crashcourse","lifenoggin","MindStuffShow","HiddenGeniusShow","AsapSCIENCE","CGPGrey","minuteearth","minutephysics","1veritasium","brusspup"],"playlist":[]}}
-{"chname":"Talk Television","description":"","genre":["Network"],"youtube":{"channel":["latenight","LateNightSeth","TeamCoco","JimmyKimmelLive","TheEllenShow","therachaelrayshowyt"],"playlist":[]}}
-{"chname":"TechTV 1","description":"","genre":["Network"],"youtube":{"channel":["omgubuntu","technewstoday","ThisWeekinTech","thebenheckshow","NCIXEsther","tomorrowdaily","diytryin","testedcom","TEKHD","CNETTV","acedtect","TheVerge","geekbeattv","gigafide"],"playlist":[]}}
-{"chname":"TechTV 2","description":"","genre":["Network"],"youtube":{"channel":["xdadevelopers","AndroidAuthority","marquesbrownlee","howtomen","jon4lakers"],"playlist":[]}}
-{"chname":"Documentary","description":"","genre":["Network"],"youtube":{"channel":["HDUniverseChannel","UCuOIt1Gj020l6jGyv2Mv96Q","vice","HDdocumentaryChannel","BiographyChannel","CrimeUncovered","ConspiracyMutant","MilitaryEarth"],"playlist":[]}}
+{"chname":"Knowledge Channel","description":"","genre":["Network"],"youtube":{"channel":["joshandchuck","TestTubeNetwork","scishow","scishowspace","crashcourse","lifenoggin","MindStuffShow","HiddenGeniusShow","AsapSCIENCE","CGPGrey","minuteearth","minutephysics","1veritasium","brusspup"],"playlist":[]}}
+{"chname":"Talk TV","description":"","genre":["Network"],"youtube":{"channel":["latenight","LateNightSeth","TeamCoco","JimmyKimmelLive","TheEllenShow","therachaelrayshowyt"],"playlist":[]}}
+{"chname":"Documentary Channel","description":"","genre":["Network"],"youtube":{"channel":["UCLj8sbKYMCIkU5BBtL6C22g","HDUniverseChannel","UCuOIt1Gj020l6jGyv2Mv96Q","vice","HDdocumentaryChannel","BiographyChannel","CrimeUncovered","ConspiracyMutant","MilitaryEarth"],"playlist":[]}}
 {"chname":"Biography","description":"","genre":["Network"],"youtube":{"channel":["TheCloudBiography","BiographySeries","BiographyChannel","MrBiographyChannel","UCb96U3aaQyK27DT0fbcPE3A","UC1eeGdXGi7DW2sWmSnFgxpQ","BiographyChannel1","hollytownbio","UCA-lp5_P6Xo91MODIh_GwHQ"],"playlist":[]}}
 {"chname":"Classic Movie Network","description":"","genre":["Movies"],"youtube":{"channel":["vintagemoviearchive","UCaDVeUo4Xw2J7CX7Oyet1HA","classicmysterymovies","TimelessClassicFilms","TimelessClassicMovie"],"playlist":[]}}
 {"chname":"BBC News","description":"","genre":["News"],"youtube":{"channel":["bbcnews","BBCHARDTALK","BBCtrending","BBCNewsnight"],"playlist":[]}}
@@ -117,13 +116,11 @@
 {"chname":"Nickelodeon","description":"","genre":["Kids"],"youtube":{"channel":["Nickelodeon","GoldenNickelodeon"],"playlist":[]}}
 {"chname":"TeenNick","description":"","genre":["Kids"],"youtube":{"channel":["TeenNickStudios"],"playlist":[]}}
 {"chname":"Sprout","description":"","genre":["Kids"],"youtube":{"channel":["Sprout"],"playlist":[]}}
-{"chname":"Comedy2","description":"","genre":["Other"],"youtube":{"channel":["BadLipReading","ERB","schmoyoho","justforlaughscomedy","overboardhumor","standupoc","break","BreakOriginals"],"playlist":[]}}
-{"chname":"Video Gaming History","description":"","genre":["Other"],"youtube":{"channel":["DYKGaming","mcfrosticles"],"playlist":[]}}
-{"chname":"Video Game News and Reviews","description":"","genre":["Other"],"youtube":{"channel":["IGNentertainment","gamespot","Rev3Games","pbsgameshow","goodgameabctv","gametrailers","PlayStation","machinima"],"playlist":[]}}
-{"chname":"Video Game Guides and Playthroughs","description":"","genre":["Other"],"youtube":{"channel":["Node","MinecraftIGN","RHINOCRUNCH","FRANKIEonPCin1080p","jackfrags","illusionsOfgrandeur1","UPlayNetwork"],"playlist":[]}}
+{"chname":"Video Game History","description":"","genre":["Other"],"youtube":{"channel":["DYKGaming","mcfrosticles"],"playlist":[]}}
+{"chname":"Video Game News","description":"","genre":["Other"],"youtube":{"channel":["IGNentertainment","gamespot","Rev3Games","pbsgameshow","goodgameabctv","gametrailers","PlayStation","machinima"],"playlist":[]}}
+{"chname":"Video Game Guides","description":"","genre":["Other"],"youtube":{"channel":["Node","MinecraftIGN","RHINOCRUNCH","FRANKIEonPCin1080p","jackfrags","illusionsOfgrandeur1","UPlayNetwork"],"playlist":[]}}
 {"chname":"Discovery Family","description":"","genre":["Kids"],"youtube":{"channel":["HasbroStudiosShorts","mlpequestriagirls","UCXftEpbQa9m7IsqYQmdBjlg","UCrsZ-0XVJvz-47exYDZqXGg"],"playlist":[]}}
 {"chname":"Nick Jr.","description":"","genre":["Kids"],"youtube":{"channel":["nickelodeonjuniorfr","UCcJT_hEkkQ03NAzp_6NEBiw"],"playlist":[]}}
 {"chname":"Late Night","description":"","genre":["Network"],"youtube":{"channel":["The Tonight Show Starring Jimmy Fallon","Jimmy Kimmel Live","LastWeekTonight","Team Coco"],"playlist":[]}}
 {"chname":"TechTV1","description":"","genre":["Tech"],"youtube":{"channel":["omgubuntu","technewstoday","ThisWeekinTech","thebenheckshow","NCIXEsther","tomorrowdaily","diytryin","testedcom","TEKHD","CNETTV","acedtect","TheVerge","geekbeattv","gigafide"],"playlist":[]}}
 {"chname":"TechTV2","description":"","genre":["Tech"],"youtube":{"channel":["xdadevelopers","AndroidAuthority","marquesbrownlee","howtomen","jon4lakers","UCtp9s4L-kxIRy221VVtgjXg"],"playlist":[]}}
-{"chname":"Comedy1","description":"","genre":["Comedy"],"youtube":{"channel":["comedycentral","collegehumor","ImprovEverywhere","FunnyorDie","OfficialComedy","NewsBeFunny","smosh,WorldsFunniestGags"],"playlist":[]}}
